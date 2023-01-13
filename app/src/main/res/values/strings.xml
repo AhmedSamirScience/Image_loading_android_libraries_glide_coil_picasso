@@ -8,4 +8,6 @@
     <string name="glide">Glide</string>
     <string name="coil">Coil</string>
     <string name="circle">Circle</string>
+    <string name="rounded_corners_transformation">Rounded Corners</string>
+    <string name="blur">blur</string>
 </resources>

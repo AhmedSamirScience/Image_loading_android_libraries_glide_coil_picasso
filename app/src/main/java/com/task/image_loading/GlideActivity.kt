@@ -17,6 +17,11 @@ import com.bumptech.glide.request.target.Target
 
 class GlideActivity : AppCompatActivity(), View.OnClickListener {
 
+    //TODO GLIDE URL OF GITHUB REGION
+    //region REGION
+    //https://github.com/bumptech/glide
+    //endregion
+
     lateinit var override_btn : Button
     lateinit var circleImage_btn : Button
     lateinit var errorWithURL_btn : Button
@@ -80,7 +85,7 @@ class GlideActivity : AppCompatActivity(), View.OnClickListener {
             }
             errorWithURL_btn ->{
                 Glide.with(applicationContext)
-                    .load("aahttps://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg")
+                    .load("error https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg")
                     .placeholder(R.drawable.ic_loading) //displaying ic_loading until url image loaded
                     .diskCacheStrategy(DiskCacheStrategy.AUTOMATIC) // used to cache images
                     .error(R.drawable.ic_error)
