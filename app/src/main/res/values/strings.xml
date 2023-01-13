@@ -7,4 +7,5 @@
     <string name="success_with_loading">Success with loading</string>
     <string name="glide">Glide</string>
     <string name="coil">Coil</string>
+    <string name="circle">Circle</string>
 </resources>

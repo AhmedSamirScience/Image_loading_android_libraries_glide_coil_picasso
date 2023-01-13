@@ -18,6 +18,7 @@ import com.bumptech.glide.request.target.Target
 class GlideActivity : AppCompatActivity(), View.OnClickListener {
 
     lateinit var override_btn : Button
+    lateinit var circleImage_btn : Button
     lateinit var errorWithURL_btn : Button
     lateinit var successWithUrl_btn : Button
     lateinit var successWithLoading_btn : Button
@@ -32,6 +33,7 @@ class GlideActivity : AppCompatActivity(), View.OnClickListener {
 
         glideImageView = findViewById(R.id.image)
         override_btn = findViewById(R.id.override_btn)
+        circleImage_btn = findViewById(R.id.circleImage_btn)
         errorWithURL_btn = findViewById(R.id.errorWithURL_btn)
         successWithUrl_btn = findViewById(R.id.successWithUrl_btn)
         successWithLoading_btn = findViewById(R.id.successWithLoadingListener_btn)
@@ -39,6 +41,7 @@ class GlideActivity : AppCompatActivity(), View.OnClickListener {
         progressBar = findViewById(R.id.progressBar)
 
         override_btn.setOnClickListener(this)
+        circleImage_btn.setOnClickListener(this)
         errorWithURL_btn.setOnClickListener(this)
         successWithUrl_btn.setOnClickListener(this)
         successWithLoading_btn.setOnClickListener(this)
@@ -80,6 +83,15 @@ class GlideActivity : AppCompatActivity(), View.OnClickListener {
                     .load("aahttps://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg")
                     .placeholder(R.drawable.ic_loading) //displaying ic_loading until url image loaded
                     .diskCacheStrategy(DiskCacheStrategy.AUTOMATIC) // used to cache images
+                    .error(R.drawable.ic_error)
+                    .into(glideImageView)
+            }
+            circleImage_btn ->{
+                Glide.with(applicationContext)
+                    .load("https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg")
+                    .placeholder(R.drawable.ic_loading) //displaying ic_loading until url image loaded
+                    .diskCacheStrategy(DiskCacheStrategy.AUTOMATIC) // used to cache images
+                    .circleCrop()
                     .error(R.drawable.ic_error)
                     .into(glideImageView)
             }

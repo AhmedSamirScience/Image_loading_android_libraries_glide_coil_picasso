@@ -11,11 +11,13 @@
     <ImageView
         android:id="@+id/image"
         android:layout_width="match_parent"
-        android:layout_height="290dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/bottom_sheet_behavior"
+        app:layout_constraintBottom_toTopOf="@+id/successWithUrl_btn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:contentDescription="@string/bottom_sheet_behavior" />
+        android:layout_margin="10dp"/>
 
     <ProgressBar
         android:id="@+id/progressBar"
@@ -48,6 +50,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/error_with_url"
+        app:layout_constraintBottom_toTopOf="@+id/circleImage_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+    <Button
+        android:id="@+id/circleImage_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/circle"
         app:layout_constraintBottom_toTopOf="@+id/override_btn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
