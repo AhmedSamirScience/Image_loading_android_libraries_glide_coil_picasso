@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">image_loading</string>
+    <string name="imageglide">imageGlide</string>
+    <string name="error_with_url">Error With Url</string>
+    <string name="success_with_url">Success</string>
+    <string name="override">Override</string>
+    <string name="success_with_loading">Success with loading</string>
+    <string name="glide">Glide</string>
+    <string name="coil">Coil</string>
 </resources>
