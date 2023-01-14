@@ -23,21 +23,22 @@ When the cache is empty and the image is being downloaded from the server, that 
 
 ## 1- Glide
 
-### The time for Glide per photo with an empty cache is shown in the table below. Take note that these times represent the average of ten tries:
+The time for Glide per photo with an empty cache is shown in the table below. Take note that these times represent the average of ten tries:
 
-### The following table displays the average loading time as well as the time required to load the entire list of images:
+The following table displays the average loading time as well as the time required to load the entire list of images:
 
 ## 2- Coil
 
-### Coil's turn is now.
-### Here is a list of all the pictures:
+Coil's turn is now.
+
+Here is a list of all the pictures:
 
 
 ## 3- Picasso
 
-### similar to Picasso:
+Similar to Picasso:
 
-### the duration for the entire set of images:
+The duration for the entire set of images:
 
 
 
