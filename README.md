@@ -43,6 +43,6 @@ In particular, when your app does not heavily rely on image loading, I would lik
 
 Lastly, Glide is faster if you're looking for a very good performance, at least in this case.
 
-
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Image_loading_android_libraries_glide_coil_picasso/blob/master/gif1.gif" height="300" width="420" ></p>
 
 
