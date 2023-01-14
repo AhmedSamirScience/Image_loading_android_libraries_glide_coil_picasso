@@ -34,7 +34,7 @@ Coil's turn is now:
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/c1.png" height="210" width="360" ></p>
 
 Here is a list of all the pictures:
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/c2.png" height="600" width="400" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/c2.png" height="240" width="200" ></p>
 
 ## 3- Picasso
 
@@ -42,7 +42,7 @@ Similar to Picasso:
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/p1.png" height="210" width="360" ></p>
 
 The duration for the entire set of images:
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/p2.png" height="600" width="400" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/p2.png" height="240" width="200" ></p>
 
 
 
