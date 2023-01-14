@@ -2,7 +2,7 @@
 
 ***
 
-#### Description about libraries:
+### Description about libraries:
 
 ## 1- Glide:
 A quick and effective open-source media management and image loading framework for Android, Glide combines resource pooling, memory and disc caching, and media decoding into a user-friendly interface. Additionally, it allows for the retrieval, decoding, and display of video stills, pictures, and animated GIFs.
