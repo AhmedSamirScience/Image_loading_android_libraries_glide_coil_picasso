@@ -50,13 +50,13 @@ I've implemented simple code to demonstrate the capabilities of the Coil and Gli
 
 ***
 ### All the resources I get for this topic.
-[here](https://github.com/coil-kt/coil)
-[here](https://www.infogrepper.com/image-url-for-testing/)
-[here](https://www.youtube.com/watch?v=LsJza8kCtTs&ab_channel=AppCodeStudio)
-[here](https://www.youtube.com/watch?v=IBaUjzn2Rgo&ab_channel=Stevdza-San)
-[here](https://www.youtube.com/watch?v=drEPpZBMYAI&ab_channel=AppCodeStudio)
-[here](https://github.com/bumptech/glide)
-[here](https://coil-kt.github.io/coil/)
+[Coil-Github](https://github.com/coil-kt/coil)
+[Second](https://www.infogrepper.com/image-url-for-testing/)
+[Third](https://www.youtube.com/watch?v=LsJza8kCtTs&ab_channel=AppCodeStudio)
+[Fouth](https://www.youtube.com/watch?v=IBaUjzn2Rgo&ab_channel=Stevdza-San)
+[Fifth](https://www.youtube.com/watch?v=drEPpZBMYAI&ab_channel=AppCodeStudio)
+[Sixth](https://github.com/bumptech/glide)
+[Seventh](https://coil-kt.github.io/coil/)
 [here](https://tech.instacart.com/introducing-coil-kotlin-first-image-loading-on-android-f0fdc7a2a99e)
 [here](https://proandroiddev.com/coil-vs-picasso-vs-glide-get-ready-go-774add8cfd40)
 
