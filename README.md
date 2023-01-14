@@ -39,3 +39,10 @@ There are a variety of scenarios to test, such as downloading large images and r
 
 keep in mind, since Coil is a new library, future versions may see an improvement in performance. Let's see how it develops since we are comparing it to established libraries.
 
+In particular, when your app does not heavily rely on image loading, I would like to emphasise that performance is not everything. For example, you will find that the bags will definitely need more patterns to show the pictures. At this point, it will search for the library that supports it. And I notice that the Coil library supports more styles for displaying URL images than the Glide library. Because Coil was created to be used with Kotlin, the code is, in my opinion, cleaner and more concise overall when using Coil.
+
+Lastly, Glide is faster if you're looking for a very good performance, at least in this case.
+
+
+
+
