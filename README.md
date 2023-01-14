@@ -47,7 +47,11 @@ Lastly, Glide is faster if you're looking for a very good performance, at least 
 I've implemented simple code to demonstrate the capabilities of the Coil and Glide libraries as well as I can. I've built two screens for each image loader library one for Coil and one for Glide. After doing the code, I noticed that Coil library is more supported for loading images than Glide library. But as we discussed, Glide is faster than Coil. You will find everything you need to deploy a Coil or Glide library from dependencies to Kotlin code.
 
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Image_loading_android_libraries_glide_coil_picasso/blob/master/gif1.gif" height="600" width="300" ></p>
+***
 
+### All the resources I get for this topic.
+
+[here](https://www.linkedin.com/in/ahmedsamir13/)
 ***
 ## ➠ Start Contributing ☺
 I will be more than happy if you decide to contribute and/or fork my repo and make something awesome out of it. I will love seeing some feedback or stars from you guys.
