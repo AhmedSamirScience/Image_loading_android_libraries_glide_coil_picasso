@@ -26,10 +26,8 @@ Take note that these times represent the average of ten tries.
  <img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic2.png"   height="300" width="420" /> 
 </p>
 
-
-The following table displays the average loading time as well as the time required to load the entire list of images:
+### The following table shows the average load time, as well as the time required to load the entire list of images, either as a first load or from cache:
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic3.png" height="300" width="420" ></p>
-
 
 ***
 
