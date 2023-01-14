@@ -51,14 +51,13 @@ I've implemented simple code to demonstrate the capabilities of the Coil and Gli
 ***
 ### All the resources I get for this topic.
 [Coil-Github](https://github.com/coil-kt/coil)
-[Second](https://www.infogrepper.com/image-url-for-testing/)
-[Third](https://www.youtube.com/watch?v=LsJza8kCtTs&ab_channel=AppCodeStudio)
-[Fouth](https://www.youtube.com/watch?v=IBaUjzn2Rgo&ab_channel=Stevdza-San)
-[Fifth](https://www.youtube.com/watch?v=drEPpZBMYAI&ab_channel=AppCodeStudio)
-[Sixth](https://github.com/bumptech/glide)
-[Seventh](https://coil-kt.github.io/coil/)
-[here](https://tech.instacart.com/introducing-coil-kotlin-first-image-loading-on-android-f0fdc7a2a99e)
-[here](https://proandroiddev.com/coil-vs-picasso-vs-glide-get-ready-go-774add8cfd40)
+[URL Images for Testing](https://www.infogrepper.com/image-url-for-testing/)
+[video Code(1)](https://www.youtube.com/watch?v=LsJza8kCtTs&ab_channel=AppCodeStudio)
+[video Code(2)](https://www.youtube.com/watch?v=IBaUjzn2Rgo&ab_channel=Stevdza-San)
+[video Code(3)](https://www.youtube.com/watch?v=drEPpZBMYAI&ab_channel=AppCodeStudio)
+[Glide-Github](https://github.com/bumptech/glide)
+[Article(1)](https://tech.instacart.com/introducing-coil-kotlin-first-image-loading-on-android-f0fdc7a2a99e)
+[Article(2)](https://proandroiddev.com/coil-vs-picasso-vs-glide-get-ready-go-774add8cfd40)
 
 
 ***
