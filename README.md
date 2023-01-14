@@ -43,6 +43,7 @@ Similar to Picasso:
 
 The duration for the entire set of images:
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/p2.png" height="240" width="200" ></p>
+
 ***
 
 
