@@ -49,7 +49,7 @@ I've implemented simple code to demonstrate the capabilities of the Coil and Gli
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Image_loading_android_libraries_glide_coil_picasso/blob/master/gif1.gif" height="600" width="300" ></p>
 
 ***
-### All the resources I get for this topic.
+### All the resources I got for this topic:
 [Coil-Github](https://github.com/coil-kt/coil)
 [URL Images for Testing](https://www.infogrepper.com/image-url-for-testing/)
 [video Code(1)](https://www.youtube.com/watch?v=LsJza8kCtTs&ab_channel=AppCodeStudio)
