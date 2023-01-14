@@ -26,7 +26,7 @@ The time per photo with an empty and not cache and is shown in the table below. 
 
 <p href="url" align="center"  >
   <img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic1.png" height="300" width="400"  />
- <img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic1.png"   height="300" width="400" /> 
+ <img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic2.png"   height="300" width="400" /> 
 </p>
 
 
