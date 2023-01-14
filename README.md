@@ -33,4 +33,5 @@ Take note that these times represent the average of ten tries.
 ## Conclusion:
 For a good understanding of the outcomes we obtained Picasso and Coil produce similar results, but Glide moves more quickly. But what happens when we load images from the cache? We typically have the best times for Glide, as you can see in the images above. Picasso is by far last, followed by Coil.
 
+The time it takes to load the entire list of images is another important issue. These figures are significant in this example because they represent the amount of time the user must wait before seeing the entire list of images. Picasso is the next fastest to load images from the network, followed by Glide, and Coil is the slowest. When loading from cache, the outcomes differ. Picasso is the slowest, while Glide and Coil share the top spot.
 
