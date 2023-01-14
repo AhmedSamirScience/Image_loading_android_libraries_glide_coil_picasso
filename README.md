@@ -23,10 +23,10 @@ When the cache is empty and the image is being downloaded from the server, that 
 ### 1- Glide
 
 The time per photo with an empty cache is shown in the table below. Take note that these times represent the average of ten tries:
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/p1.png" height="210" width="360" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic1.png" height="210" width="360" ></p>
 
 The following table displays the average loading time as well as the time required to load the entire list of images:
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/p2.png" height="240" width="200" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic2.png" height="240" width="200" ></p>
 
  
 
