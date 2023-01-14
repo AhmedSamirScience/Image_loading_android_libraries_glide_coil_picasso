@@ -37,3 +37,5 @@ The time it takes to load the entire list of images is another important issue. 
 
 There are a variety of scenarios to test, such as downloading large images and resizing them to fit the container. Since the outcomes in other scenarios could be very different, I am unable to discuss them. Running ten tests for each scenario is not enough to be taxative because, as you are aware, statistics is a science of large numbers, though we can get a general idea of performance.
 
+keep in mind, since Coil is a new library, future versions may see an improvement in performance. Let's see how it develops since we are comparing it to established libraries.
+
