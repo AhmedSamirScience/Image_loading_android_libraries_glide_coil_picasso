@@ -30,5 +30,6 @@ Take note that these times represent the average of ten tries.
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic3.png" height="300" width="420" ></p>
 
 ***
+## Conclusion about libraries:
 
 
