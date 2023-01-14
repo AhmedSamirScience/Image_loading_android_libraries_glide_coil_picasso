@@ -12,3 +12,5 @@ These days, The Coil is gaining more and more popularity. Why is it growing more
 ## 3- Picasso
 a strong Android image downloader and cache library tool. One of the first libraries in this field to be founded. On the one hand, this raises the risk in my opinion, that new technologies won't be supported because of the outdated source.
 ***
+
+### Measure the performance of these libraries
