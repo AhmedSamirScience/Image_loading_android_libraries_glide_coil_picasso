@@ -29,7 +29,7 @@ The time per photo with an empty and not cache and is shown in the table below. 
 </p>
 
 The following table displays the average loading time as well as the time required to load the entire list of images:
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic3.png" height="165" width="250" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/pic3.png" height="195" width="290" ></p>
 
 
 ***
