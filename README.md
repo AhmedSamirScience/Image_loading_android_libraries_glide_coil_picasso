@@ -26,7 +26,7 @@ The time for Glide per photo with an empty cache is shown in the table below. Ta
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/g1.png" height="210" width="360" ></p>
 
 The following table displays the average loading time as well as the time required to load the entire list of images:
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/g2.png" height="360" width="260" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/g2.png" height="300" width="240" ></p>
 
 ## 2- Coil
 
