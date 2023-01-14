@@ -16,3 +16,28 @@ a strong Android image downloader and cache library tool. One of the first libra
 ### Measure the performance of these libraries:
 
 The point is to measure and give you a rough idea of Coils Glide and Picasso performance and when to use each. So, we'll compare how quickly files are downloaded from the network and loaded from the cache.
+
+
+When the cache is empty and the image is being downloaded from the server, that is the scenario we will start with:
+
+
+## 1- Glide
+
+### The time for Glide per photo with an empty cache is shown in the table below. Take note that these times represent the average of ten tries:
+
+### The following table displays the average loading time as well as the time required to load the entire list of images:
+
+## 2- Coil
+
+### Coil's turn is now.
+### Here is a list of all the pictures:
+
+
+## 3- Picasso
+
+### similar to Picasso:
+
+### the duration for the entire set of images:
+
+
+
