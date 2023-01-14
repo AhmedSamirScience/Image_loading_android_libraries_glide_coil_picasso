@@ -48,4 +48,10 @@ I've implemented simple code to demonstrate the capabilities of the Coil and Gli
 
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Image_loading_android_libraries_glide_coil_picasso/blob/master/gif1.gif" height="600" width="300" ></p>
 
+***
+## ➠ Start Contributing ☺
+I will be more than happy if you decide to contribute and/or fork my repo and make something awesome out of it. I will love seeing some feedback or stars from you guys.
+
+***
+
 
