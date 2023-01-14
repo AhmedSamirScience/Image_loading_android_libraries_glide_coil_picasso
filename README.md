@@ -42,7 +42,8 @@ keep in mind, since Coil is a new library, future versions may see an improvemen
 In particular, when your app does not heavily rely on image loading, I would like to emphasise that performance is not everything. For example, you will find that the bags will definitely need more patterns to show the pictures. At this point, it will search for the library that supports it. And I notice that the Coil library supports more styles for displaying URL images than the Glide library. Because Coil was created to be used with Kotlin, the code is, in my opinion, cleaner and more concise overall when using Coil.
 
 Lastly, Glide is faster if you're looking for a very good performance, at least in this case.
- 
+ ***
+
 
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/Image_loading_android_libraries_glide_coil_picasso/blob/master/gif1.gif" height="600" width="300" ></p>
 
