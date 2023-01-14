@@ -31,5 +31,6 @@ Take note that these times represent the average of ten tries.
 
 ***
 ## Conclusion:
+For a good understanding of the outcomes we obtained Picasso and Coil produce similar results, but Glide moves more quickly. But what happens when we load images from the cache? We typically have the best times for Glide, as you can see in the images above. Picasso is by far last, followed by Coil.
 
 
