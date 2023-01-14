@@ -31,7 +31,7 @@ The following table displays the average loading time as well as the time requir
 ## 2- Coil
 
 Coil's turn is now:
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/c1.png" height="600" width="400" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/c1.png" height="210" width="360" ></p>
 
 Here is a list of all the pictures:
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/c2.png" height="600" width="400" ></p>
@@ -39,7 +39,7 @@ Here is a list of all the pictures:
 ## 3- Picasso
 
 Similar to Picasso:
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/p1.png" height="600" width="400" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/p1.png" height="210" width="360" ></p>
 
 The duration for the entire set of images:
 <p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/image_loading_android_libraries_glide_coil_picasso/blob/master/p2.png" height="600" width="400" ></p>
