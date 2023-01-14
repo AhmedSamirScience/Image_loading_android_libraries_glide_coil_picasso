@@ -13,4 +13,6 @@ These days, The Coil is gaining more and more popularity. Why is it growing more
 a strong Android image downloader and cache library tool. One of the first libraries in this field to be founded. On the one hand, this raises the risk in my opinion, that new technologies won't be supported because of the outdated source.
 ***
 
-### Measure the performance of these libraries
+### Measure the performance of these libraries:
+
+The point is to measure and give you a rough idea of Coils Glide and Picasso performance and when to use each. So, we'll compare how quickly files are downloaded from the network and loaded from the cache.
