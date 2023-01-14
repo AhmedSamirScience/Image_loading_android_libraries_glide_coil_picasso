@@ -29,7 +29,7 @@ The following table displays the average loading time as well as the time requir
 
 ## 2- Coil
 
-Coil's turn is now.
+Coil's turn is now:
 
 Here is a list of all the pictures:
 
